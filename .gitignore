@@ -1,0 +1,8 @@
+.DS_Store
+
+npm-debug.log
+
+node_modules
+
+package1.json
+test-app.html
