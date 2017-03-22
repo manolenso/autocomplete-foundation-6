@@ -6,8 +6,8 @@ A short description of your package.
 
 [Zurb Foundation 6](http://foundation.zurb.com/sites) tag and attribute autocompletions in Atom. Install
 
-This is powered by the list of HTML tags [here](https://raw.githubusercontent.com/master/HtmlTags.json)
-and HTML attributes [here](https://raw.githubusercontent.com//master/HtmlAttributes.json)
+This is powered by the list of HTML tags [here](https://raw.githubusercontent.com/manolenso/autocomplete-foundation-6/master/sources/HtmlTags.json)
+and HTML attributes [here](https://raw.githubusercontent.com/manolenso/autocomplete-foundation-6/master/sources/HtmlAttributes.json)
 
 You can update the prebuilt list of tags and attributes names and values by
-running the `coffee update.coffee` file at the root of the repository and then checking in the changed `completions.json` file. 
+running the `coffee update.coffee` file at the root of the repository and then checking in the changed `completions.json` file.

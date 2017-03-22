@@ -12,7 +12,7 @@ exitIfError = (error) ->
 
 getTags = (callback) ->
   requestOptions =
-    url: 'https://raw.githubusercontent.com/manolenso/master/HtmlTags.json'
+    url: 'https://raw.githubusercontent.com/manolenso/autocomplete-foundation-6/master/sources/HtmlTags.json'
     json: true
 
   request requestOptions, (error, response, tags) ->
@@ -28,7 +28,7 @@ getTags = (callback) ->
 
 getAttributes = (callback) ->
   requestOptions =
-    url: 'https://raw.githubusercontent.com/manolenso/master/HtmlAttributes.json'
+    url: 'https://raw.githubusercontent.com/manolenso/autocomplete-foundation-6/master/sources/HtmlAttributes.json'
     json: true
 
   request requestOptions, (error, response, attributes) ->
