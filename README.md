@@ -1,10 +1,10 @@
 
 # Zurb Foundation 6 Autocomplete Package
-A short description of your package.
+
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 
-[Zurb Foundation 6](http://foundation.zurb.com/sites) tag and attribute autocompletions in Atom. Install
+[Zurb Foundation 6](http://foundation.zurb.com/sites) tag and attribute autocompletions in Atom. 
 
 This is powered by the list of HTML tags [here](https://raw.githubusercontent.com/manolenso/autocomplete-foundation-6/master/sources/HtmlTags.json)
 and HTML attributes [here](https://raw.githubusercontent.com/manolenso/autocomplete-foundation-6/master/sources/HtmlAttributes.json)
